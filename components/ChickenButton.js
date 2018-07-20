@@ -14,6 +14,7 @@ export default class ChickenButton extends React.Component {
                         source={require("../assets/img/nugget.png")}
                         originalWidth={2761 - 2 * abstd}
                         originalHeight={2000}
+                        gap={50}
                     />
                 </TouchableOpacity>
             </View>
